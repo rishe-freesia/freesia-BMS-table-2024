@@ -1,5 +1,5 @@
 {
-"name" : "freesia BMS table(~2024)",
+"name" : "freesia BMS table",
 "symbol" : "f*",
 "data_url" : "https://script.google.com/macros/s/AKfycbyY8UnihGLLWub2udFzCbU4itsGr7nBinQOWl2KtsenTvvOxjWEfYISzEsGGJis33uG/exec",
 "course":[
@@ -7,5 +7,10 @@
 {"name":"freesia grade*2「New User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["f594a11da2140610e4b3430255af6f6b","81fda6fa73b576285412edc12ad6888f","a08f0e741e692f31a407dbef1e411450","8c1ba1382fc4a61cc56c851a3d8ca7b4"]},
 {"name":"freesia grade*3「User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["b2fb320fd4c44222056b69cf48789fac","b67922a97f39c77caf723264286aa4c7","96d86b9b8a3456efceaeb182ab1181a3","1fbd97f9956ac8ea1e946a5753e383b0"]},
 {"name":"freesia grade*4「Known User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["6ee51b1e05838f77354ac785721a037e","b9def13681245aa507067bac24660a61","d756ea85107f332cb82d6c1a46b3f4ac","4eb0a917602cf59c45106e91bac4444c"]},
-{"name":"freesia grade*5「Trusted User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["1d58137375768462bfaa6ba540291db8","92bb27fa347ed1a6bfb967666cb8452a","b4831fadfdb95048d0349895f8fc13d9","3e9de2ca03dbb72b0f51e9f42b119459"]}
+{"name":"freesia grade*5「Trusted User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["1d58137375768462bfaa6ba540291db8","92bb27fa347ed1a6bfb967666cb8452a","b4831fadfdb95048d0349895f8fc13d9","3e9de2ca03dbb72b0f51e9f42b119459"]},
+{"name":"freesia grade*1「Visitor」2025ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["d3c7489cd5b647712846871cbab7e7e2","f594a11da2140610e4b3430255af6f6b","8871234c74559a6e0cce32a5bc3c7309","5297b59a89fcde7a1753acd758fd3abf"]},
+{"name":"freesia grade*2「New User」2025ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["c7aae9f64324070f0b92593e88af92a4","77b103b988f8c94600a5282e6b11310f","346982d88b896735e31fa72101e15295","1d7d2018d9fcb600a3a3ffe2a6f06772"]},
+{"name":"freesia grade*3「User」2025ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["96d86b9b8a3456efceaeb182ab1181a3","b2fb320fd4c44222056b69cf48789fac","47e4dc6fc4dce891536865ed62b07399","1fbd97f9956ac8ea1e946a5753e383b0"]},
+{"name":"freesia grade*4「Known User」2025ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["4f7aa8b8262820375f68f3533d9967e1","a2d28afbfdec5c5528cd8ae3fe838414","4eb0a917602cf59c45106e91bac4444c","5a99a25519c9e5ed171b5df3ff5b37e3"]},
+{"name":"freesia grade*5「Trusted User」2025ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["b4831fadfdb95048d0349895f8fc13d9","92bb27fa347ed1a6bfb967666cb8452a","e809fccb5b084b789fa9b71bfff55ae0","5224549f924ea1054eb00aa12495519c"]}
 ]}
